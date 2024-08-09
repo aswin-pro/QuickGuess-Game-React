@@ -19,7 +19,7 @@ QuickGuess: The Number Challenge is a fun and interactive number guessing game d
 - Game Continuation: The game continues as long as you keep making guesses. The final score is displayed when you decide to stop.
 
 ## How to View
-You can explore the QuickGuess by visiting 
+You can explore the QuickGuess by visiting https://quick-guess-game-react.vercel.app/
 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please feel free to submit a pull request or open an issue.
